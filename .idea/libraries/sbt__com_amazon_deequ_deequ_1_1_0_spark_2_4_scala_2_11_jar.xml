@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.amazon.deequ:deequ:1.1.0_spark-2.4-scala-2.11:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/amazon/deequ/deequ/1.1.0_spark-2.4-scala-2.11/deequ-1.1.0_spark-2.4-scala-2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/amazon/deequ/deequ/1.1.0_spark-2.4-scala-2.11/deequ-1.1.0_spark-2.4-scala-2.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/amazon/deequ/deequ/1.1.0_spark-2.4-scala-2.11/deequ-1.1.0_spark-2.4-scala-2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
